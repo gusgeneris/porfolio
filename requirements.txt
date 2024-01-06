@@ -16,6 +16,7 @@ cryptography==3.4.8
 dbus-python==1.2.18
 
 distro==1.7.0
+Cython==0.29.24
 
 Django>=3.2
 docker==5.0.3
@@ -29,7 +30,7 @@ future==0.18.2
 httplib2==0.20.2
 idna>=3,<4
 
-PyYAML==5.4.1
+PyYAML<=5.4.1
 importlib-metadata==4.6.4
 jeepney==0.7.1
 jsonschema==3.2.0
